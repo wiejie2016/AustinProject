@@ -1,0 +1,12 @@
+##########################################
+# Using Config-server servcie pattern
+##########################################
+spring:
+  application:
+    name: zuul-api-gateway-microservice
+cloud:
+    config:
+      server:
+        bootstrap: true
+        uri: http://localhost:8888
+

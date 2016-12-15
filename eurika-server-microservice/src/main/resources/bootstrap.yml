@@ -1,0 +1,26 @@
+#server:
+#  port: ${PORT:7777}
+#
+#eureka:
+#  client:
+#    registerWithEureka: false
+#    fetchRegistry: false
+#    server:
+#      waitTimeInMsWhenSyncEmpty: 0
+
+##########################################
+# Using Config-server servcie pattern
+##########################################
+spring:
+  application:
+    name: eurika-server-microservice
+
+#  cloud:
+#     config:
+#        server:
+#          bootstrap: true
+#        uri: http://localhost:8888
+#
+
+
+

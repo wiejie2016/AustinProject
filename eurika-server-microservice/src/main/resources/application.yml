@@ -1,9 +1,6 @@
-server:
-  port: ${PORT:7777}
+cloud:
+    config:
+      server:
+        bootstrap: true
+        uri: http://localhost:8888
 
-eureka:
-  client:
-    registerWithEureka: false
-    fetchRegistry: false
-    server:
-      waitTimeInMsWhenSyncEmpty: 0

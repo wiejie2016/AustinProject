@@ -3,6 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/AustinProject.iml" filepath="$PROJECT_DIR$/.idea/AustinProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-sever-microservice/config-sever-microservice.iml" filepath="$PROJECT_DIR$/config-sever-microservice/config-sever-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurika-server-microservice/eurika-server-microservice.iml" filepath="$PROJECT_DIR$/eurika-server-microservice/eurika-server-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-discovery-microservice/user-discovery-microservice.iml" filepath="$PROJECT_DIR$/user-discovery-microservice/user-discovery-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-microservice/user-microservice.iml" filepath="$PROJECT_DIR$/user-microservice/user-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-mysql-microservice/user-mysql-microservice.iml" filepath="$PROJECT_DIR$/user-mysql-microservice/user-mysql-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-api-gateway-microservice/zuul-api-gateway-microservice.iml" filepath="$PROJECT_DIR$/zuul-api-gateway-microservice/zuul-api-gateway-microservice.iml" />
     </modules>
   </component>
 </project>

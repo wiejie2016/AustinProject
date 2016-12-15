@@ -1,0 +1,19 @@
+cloud:
+
+    config:
+      server:
+        bootstrap: true
+        uri: http://localhost:8888
+
+
+#server:
+#  port: 8091
+#
+#spring:
+#  datasource:
+#    driver-class-name: com.mysql.jdbc.Driver
+#    url: jdbc:mysql://localhost/demo_db?useSSL=false
+#    username: root
+#    password: root
+         
+      
